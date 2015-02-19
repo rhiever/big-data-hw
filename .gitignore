@@ -1,3 +1,9 @@
 
 .ipynb_checkpoints/*
+
 Path construction methods comparison.ipynb
+
+20questions/*
+
+*.csv
+*.tsv
