@@ -7,3 +7,5 @@ Path construction methods comparison.ipynb
 
 *.csv
 *.tsv
+
+*.pickle
